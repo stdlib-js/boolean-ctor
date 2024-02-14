@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Boolean from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean-ctor@deno/mod.js';
+import Boolean from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean-ctor@v0.2.0-deno/mod.js';
 ```
 
 #### Boolean( value )
@@ -136,7 +136,7 @@ val = b.valueOf();
 
 ```javascript
 import format from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-format@deno/mod.js';
-import Bool from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean-ctor@deno/mod.js';
+import Bool from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean-ctor@v0.2.0-deno/mod.js';
 
 var values = [
     '5',
