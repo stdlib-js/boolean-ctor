@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-04)
+## Unreleased (2026-04-19)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3ecf241`](https://github.com/stdlib-js/stdlib/commit/3ecf241da17122f8b9e5ad11b1e4e2917a877bec) - **bench:** refactor to use string interpolation in `boolean` [(#11623)](https://github.com/stdlib-js/stdlib/pull/11623) _(by Karan Anand)_
 -   [`6277feb`](https://github.com/stdlib-js/stdlib/commit/6277feb1c374f6171e19c631c309384b2f2e2c75) - **chore:** fix JavaScript lint errors [(#10701)](https://github.com/stdlib-js/stdlib/pull/10701) _(by Aniket Sonawane)_
 
 </details>
@@ -36,9 +37,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aniket Sonawane
+-   Karan Anand
 
 </section>
 
